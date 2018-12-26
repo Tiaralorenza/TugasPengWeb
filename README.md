@@ -6,6 +6,6 @@ Npm  : 1655061005
 
 Username : Admin
 
-Password : Admin
+Password : admin
 
 Link Web : http://sipes.rf.gd/
